@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MONET Tech-blog • All posts by \"arch linux\" tag",
+    "description": "This is a tech-blog of MONET-Technologies",
+    "home_page_url": "http://yoursite.com",
+    "items": [
+        {
+            "id": "http://yoursite.com/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/",
+            "url": "http://yoursite.com/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/",
+            "title": "Arch Linuxはいいぞという話",
+            "date_published": "2020-07-15T01:51:27.000Z",
+            "content_html": "<h1 id=\"はじめに\"><a class=\"markdownIt-Anchor\" href=\"#はじめに\">#</a> はじめに</h1>\n<h1 id=\"arch-linuxを自宅のサーバに入れました\"><a class=\"markdownIt-Anchor\" href=\"#arch-linuxを自宅のサーバに入れました\">#</a> Arch Linux を自宅のサーバに入れました</h1>\n<p>以下、後で執筆</p>\n",
+            "tags": [
+                "Arch Linux",
+                "Linux"
+            ]
+        }
+    ]
+}

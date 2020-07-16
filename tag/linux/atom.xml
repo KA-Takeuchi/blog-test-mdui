@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://yoursite.com</id>
+    <title>MONET Tech-blog • Posts by &#34;linux&#34; tag</title>
+    <link href="http://yoursite.com" />
+    <updated>2020-07-15T01:51:27.000Z</updated>
+    <category term="Arch Linux" />
+    <category term="Linux" />
+    <category term="python" />
+    <category term="データ可視化" />
+    <category term="hexo" />
+    <category term="github" />
+    <category term="vscode" />
+    <category term="docker" />
+    <entry>
+        <id>http://yoursite.com/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</id>
+        <title>Arch Linuxはいいぞという話</title>
+        <link rel="alternate" href="http://yoursite.com/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#はじめに&#34;&gt;#&lt;/a&gt; はじめに&lt;/h1&gt;
+&lt;h1 id=&#34;arch-linuxを自宅のサーバに入れました&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#arch-linuxを自宅のサーバに入れました&#34;&gt;#&lt;/a&gt; Arch Linux を自宅のサーバに入れました&lt;/h1&gt;
+&lt;p&gt;以下、後で執筆&lt;/p&gt;
+</content>
+        <category term="Arch Linux" />
+        <category term="Linux" />
+        <updated>2020-07-15T01:51:27.000Z</updated>
+    </entry>
+</feed>
