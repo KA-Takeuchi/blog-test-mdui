@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://yoursite.com</id>
+    <id>http://localhost:4000/tech-blog</id>
     <title>MONET Tech-blog • Posts by &#34;tryout&#34; category</title>
-    <link href="http://yoursite.com" />
+    <link href="http://localhost:4000/tech-blog" />
     <updated>2020-07-16T04:03:27.000Z</updated>
-    <category term="Arch Linux" />
-    <category term="Linux" />
     <category term="python" />
     <category term="データ可視化" />
+    <category term="Arch Linux" />
+    <category term="Linux" />
     <category term="hexo" />
     <category term="github" />
     <category term="vscode" />
     <category term="docker" />
     <entry>
-        <id>http://yoursite.com/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</id>
+        <id>http://localhost:4000/tech-blog/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</id>
         <title>Plotly Dashを試してみた</title>
-        <link rel="alternate" href="http://yoursite.com/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/"/>
+        <link rel="alternate" href="http://localhost:4000/tech-blog/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/"/>
         <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#はじめに&#34;&gt;#&lt;/a&gt; はじめに&lt;/h1&gt;
 &lt;p&gt;後で書きます&lt;/p&gt;
 </content>

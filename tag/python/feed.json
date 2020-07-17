@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "MONET Tech-blog • All posts by \"python\" tag",
     "description": "This is a tech-blog of MONET-Technologies",
-    "home_page_url": "http://yoursite.com",
+    "home_page_url": "http://localhost:4000/tech-blog",
     "items": [
         {
-            "id": "http://yoursite.com/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/",
-            "url": "http://yoursite.com/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/",
+            "id": "http://localhost:4000/tech-blog/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/",
+            "url": "http://localhost:4000/tech-blog/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/",
             "title": "Plotly Dashを試してみた",
             "date_published": "2020-07-16T04:03:27.000Z",
             "content_html": "<h1 id=\"はじめに\"><a class=\"markdownIt-Anchor\" href=\"#はじめに\">#</a> はじめに</h1>\n<p>後で書きます</p>\n",

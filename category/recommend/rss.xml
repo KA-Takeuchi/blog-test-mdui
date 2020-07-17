@@ -2,23 +2,23 @@
 <rss version="2.0">
     <channel>
         <title>MONET Tech-blog • Posts by &#34;recommend&#34; category</title>
-        <link>http://yoursite.com</link>
+        <link>http://localhost:4000/tech-blog</link>
         <description>This is a tech-blog of MONET-Technologies</description>
         <language>ja</language>
         <pubDate>Wed, 15 Jul 2020 01:51:27 +0000</pubDate>
         <lastBuildDate>Wed, 15 Jul 2020 01:51:27 +0000</lastBuildDate>
-        <category>Arch Linux</category>
-        <category>Linux</category>
         <category>python</category>
         <category>データ可視化</category>
+        <category>Arch Linux</category>
+        <category>Linux</category>
         <category>hexo</category>
         <category>github</category>
         <category>vscode</category>
         <category>docker</category>
         <item>
-            <guid isPermalink="true">http://yoursite.com/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</guid>
+            <guid isPermalink="true">http://localhost:4000/tech-blog/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</guid>
             <title>Arch Linuxはいいぞという話</title>
-            <link>http://yoursite.com/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</link>
+            <link>http://localhost:4000/tech-blog/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</link>
             <category>Arch Linux</category>
             <category>Linux</category>
             <pubDate>Wed, 15 Jul 2020 01:51:27 +0000</pubDate>
