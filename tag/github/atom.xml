@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://KA-Takeuchi.github.io/blog-test-light</id>
+    <id>https://ka-takeuchi.github.io/blog-test-light</id>
     <title>MONET Tech-blog • Posts by &#34;github&#34; tag</title>
-    <link href="https://KA-Takeuchi.github.io/blog-test-light" />
+    <link href="https://ka-takeuchi.github.io/blog-test-light" />
     <updated>2020-07-14T14:09:45.000Z</updated>
     <category term="hexo" />
     <category term="Arch Linux" />

@@ -2,7 +2,7 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "MONET Tech-blog • All posts by \"linux\" tag",
     "description": "This is a tech-blog of MONET-Technologies",
-    "home_page_url": "https://KA-Takeuchi.github.io/blog-test-light",
+    "home_page_url": "https://ka-takeuchi.github.io/blog-test-light",
     "items": [
         {
             "id": "https://ka-takeuchi.github.io/blog-test-light/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/",
