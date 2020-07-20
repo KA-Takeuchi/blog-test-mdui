@@ -2,27 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>MONET Tech-blog • Posts by &#34;recommend&#34; category</title>
-        <link>https://ka-takeuchi.github.io/blog-test-light</link>
+        <link>https://ka-takeuchi.github.io/blog-test-strata</link>
         <description>This is a tech-blog of MONET-Technologies</description>
         <language>ja</language>
         <pubDate>Wed, 15 Jul 2020 01:51:27 +0000</pubDate>
         <lastBuildDate>Wed, 15 Jul 2020 01:51:27 +0000</lastBuildDate>
-        <category>hexo</category>
         <category>Arch Linux</category>
         <category>Linux</category>
+        <category>hexo</category>
         <category>python</category>
         <category>visualization</category>
         <category>github</category>
         <category>vscode</category>
         <category>docker</category>
         <item>
-            <guid isPermalink="true">https://ka-takeuchi.github.io/blog-test-light/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</guid>
+            <guid isPermalink="true">https://ka-takeuchi.github.io/blog-test-strata/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</guid>
             <title>Arch Linuxはいいぞという話</title>
-            <link>https://ka-takeuchi.github.io/blog-test-light/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</link>
+            <link>https://ka-takeuchi.github.io/blog-test-strata/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</link>
             <category>Arch Linux</category>
             <category>Linux</category>
             <pubDate>Wed, 15 Jul 2020 01:51:27 +0000</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#はじめに&#34;&gt;#&lt;/a&gt; はじめに&lt;/h1&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;h1 id=&#34;arch-linuxを自宅のサーバに入れました&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#arch-linuxを自宅のサーバに入れました&#34;&gt;#&lt;/a&gt; Arch Linux を自宅のサーバに入れました&lt;/h1&gt;&lt;p&gt;以下、後で執筆&lt;/p&gt; ]]></description>
+            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#はじめに&#34;&gt;#&lt;/a&gt; はじめに&lt;/h1&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+&lt;h1 id=&#34;arch-linuxを自宅のサーバに入れました&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#arch-linuxを自宅のサーバに入れました&#34;&gt;#&lt;/a&gt; Arch Linux を自宅のサーバに入れました&lt;/h1&gt;
+&lt;p&gt;以下、後で執筆&lt;/p&gt;
+ ]]></description>
         </item>
     </channel>
 </rss>

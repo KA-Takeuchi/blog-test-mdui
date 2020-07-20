@@ -1,22 +1,26 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ka-takeuchi.github.io/blog-test-light</id>
+    <id>https://ka-takeuchi.github.io/blog-test-strata</id>
     <title>MONET Tech-blog • Posts by &#34;tryout&#34; category</title>
-    <link href="https://ka-takeuchi.github.io/blog-test-light" />
+    <link href="https://ka-takeuchi.github.io/blog-test-strata" />
     <updated>2020-07-16T04:03:27.000Z</updated>
-    <category term="hexo" />
     <category term="Arch Linux" />
     <category term="Linux" />
+    <category term="hexo" />
     <category term="python" />
     <category term="visualization" />
     <category term="github" />
     <category term="vscode" />
     <category term="docker" />
     <entry>
-        <id>https://ka-takeuchi.github.io/blog-test-light/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</id>
+        <id>https://ka-takeuchi.github.io/blog-test-strata/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</id>
         <title>Plotly Dashを試してみた</title>
-        <link rel="alternate" href="https://ka-takeuchi.github.io/blog-test-light/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/"/>
-        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#はじめに&#34;&gt;#&lt;/a&gt; はじめに&lt;/h1&gt;&lt;p&gt;後で書きます&lt;/p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;p&gt;aaa&lt;/p&gt;</content>
+        <link rel="alternate" href="https://ka-takeuchi.github.io/blog-test-strata/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#はじめに&#34;&gt;#&lt;/a&gt; はじめに&lt;/h1&gt;
+&lt;p&gt;後で書きます&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+&lt;p&gt;aaa&lt;/p&gt;
+</content>
         <category term="python" />
         <category term="visualization" />
         <updated>2020-07-16T04:03:27.000Z</updated>
