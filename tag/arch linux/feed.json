@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "MONET Tech-blog • All posts by \"arch linux\" tag",
     "description": "This is a tech-blog of MONET-Technologies",
-    "home_page_url": "https://monet-technologies-com.github.io/tech-blog",
+    "home_page_url": "https://KA-Takeuchi.github.io/blog-test-light",
     "items": [
         {
-            "id": "https://monet-technologies-com.github.io/tech-blog/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/",
-            "url": "https://monet-technologies-com.github.io/tech-blog/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/",
+            "id": "https://ka-takeuchi.github.io/blog-test-light/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/",
+            "url": "https://ka-takeuchi.github.io/blog-test-light/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/",
             "title": "Arch Linuxはいいぞという話",
             "date_published": "2020-07-15T01:51:27.000Z",
             "content_html": "<h1 id=\"はじめに\"><a class=\"markdownIt-Anchor\" href=\"#はじめに\">#</a> はじめに</h1><a id=\"more\"></a><h1 id=\"arch-linuxを自宅のサーバに入れました\"><a class=\"markdownIt-Anchor\" href=\"#arch-linuxを自宅のサーバに入れました\">#</a> Arch Linux を自宅のサーバに入れました</h1><p>以下、後で執筆</p>",
