@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>MONET Tech-blog • Posts by &#34;python&#34; tag</title>
-        <link>https://ka-takeuchi.github.io/blog-test-element</link>
+        <link>https://ka-takeuchi.github.io/blog-test-mdui</link>
         <description>This is a tech-blog of MONET-Technologies</description>
         <language>ja</language>
         <pubDate>Thu, 16 Jul 2020 04:03:27 +0000</pubDate>
@@ -16,9 +16,9 @@
         <category>vscode</category>
         <category>docker</category>
         <item>
-            <guid isPermalink="true">https://ka-takeuchi.github.io/blog-test-element/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+            <guid isPermalink="true">https://ka-takeuchi.github.io/blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
             <title>Plotly Dashを試してみた</title>
-            <link>https://ka-takeuchi.github.io/blog-test-element/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+            <link>https://ka-takeuchi.github.io/blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</link>
             <category>python</category>
             <category>visualization</category>
             <pubDate>Thu, 16 Jul 2020 04:03:27 +0000</pubDate>
