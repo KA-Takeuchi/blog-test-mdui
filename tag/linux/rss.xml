@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>MONET Tech-blog • Posts by &#34;linux&#34; tag</title>
-        <link>https://ka-takeuchi.github.io/blog-test-strata</link>
+        <link>https://ka-takeuchi.github.io/blog-test-element</link>
         <description>This is a tech-blog of MONET-Technologies</description>
         <language>ja</language>
         <pubDate>Wed, 15 Jul 2020 01:51:27 +0000</pubDate>
@@ -16,9 +16,9 @@
         <category>vscode</category>
         <category>docker</category>
         <item>
-            <guid isPermalink="true">https://ka-takeuchi.github.io/blog-test-strata/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</guid>
+            <guid isPermalink="true">https://ka-takeuchi.github.io/blog-test-element/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</guid>
             <title>Arch Linuxはいいぞという話</title>
-            <link>https://ka-takeuchi.github.io/blog-test-strata/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</link>
+            <link>https://ka-takeuchi.github.io/blog-test-element/2020/07/15/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</link>
             <category>Arch Linux</category>
             <category>Linux</category>
             <pubDate>Wed, 15 Jul 2020 01:51:27 +0000</pubDate>
