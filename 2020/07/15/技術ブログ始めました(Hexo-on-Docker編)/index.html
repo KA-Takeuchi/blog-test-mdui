@@ -33,7 +33,7 @@
         -->
 
   <meta charset="UTF-8">
-  <title>Plotly Dashを試してみた - MONET Tech-blog</title>
+  <title>技術ブログ始めました(Hexo-on-Docker編) - MONET Tech-blog</title>
 
   <!-- Favicons -->
   <link rel="icon shortcut" type="image/ico" href="/blog-test-mdui/images/favicon.png">
@@ -49,9 +49,10 @@
   <meta name="author" content="MONET Technologies">
   
       <meta name="description" content="# はじめに
-後で書きます">
+MONET Technologies 株式会社、2020 年新卒入社の竹内です。
+この記事では、技術ブログ開始に当たって、静的サイトジェネレータ Hexo を導入する話です。">
   
-  <meta name="keywords" content="blog, hexo, mdui,python,visualization">
+  <meta name="keywords" content="blog, hexo, mdui,hexo">
 
   <!--iOS -->
   <meta name="apple-mobile-web-app-title" content="MONET Tech-blog">
@@ -66,17 +67,16 @@
   <!-- The Open Graph protocol -->
   <meta property="og:url" content="https://ka-takeuchi.github.io/blog-test-mdui">
   <meta property="og:type" content="blog">
-  <meta property="og:title" content="Plotly Dashを試してみた - MONET Tech-blog | MONET Tech-blog">
+  <meta property="og:title" content="技術ブログ始めました(Hexo-on-Docker編) - MONET Tech-blog | MONET Tech-blog">
   <meta property="og:image" content="images/favicon.png" />
   
     <meta property="og:description" content="# はじめに
-後で書きます">
+MONET Technologies 株式会社、2020 年新卒入社の竹内です。
+この記事では、技術ブログ開始に当たって、静的サイトジェネレータ Hexo を導入する話です。">
   
 
   
-    <meta property="og:article:tag" content="python">
-  
-    <meta property="og:article:tag" content="visualization">
+    <meta property="og:article:tag" content="hexo">
   
 
   
@@ -93,7 +93,7 @@
 <meta name="generator" content="Hexo 4.2.1"></head>
 
 
-<body class="mdui-drawer-body-left mdui-theme-primary-indigo mdui-theme-accent-pink">
+<body class="mdui-drawer-body-left mdui-theme-primary-teal mdui-theme-accent-light-blue">
 
   <style>
     #spinner {
@@ -282,7 +282,7 @@
         MONET Technologies
       </div>
       <div class="theme-drawer__header__layer-2__user__info__slogan mdui-text-color-white-secondary">
-        I&#39;m your slogan!
+        全てのモビリティを技術で幸せに。
       </div>
     </div>
   </div>
@@ -294,27 +294,21 @@
   <ul class="mdui-list">
     <a href="/blog-test-mdui/" class="mdui-list-item mdui-ripple mdui-ripple-white">
       <i class="mdui-list-item-icon mdui-icon material-icons">&#xe88a;</i>
-      <div class="mdui-list-item-content">首页</div>
+      <div class="mdui-list-item-content">Index</div>
     </a>
     <a href="/blog-test-mdui/archives/" class="mdui-list-item mdui-ripple mdui-ripple-white">
       <i class="mdui-list-item-icon mdui-icon material-icons">&#xe149;</i>
-      <div class="mdui-list-item-content">归档</div>
+      <div class="mdui-list-item-content">Archives</div>
     </a>
     <ul class="mdui-list mdui-collapse" mdui-collapse="{accordion: true}" mdui-collapse>
       
         <div class="mdui-collapse-item ">
           <div class="mdui-collapse-item-header mdui-list-item mdui-ripple mdui-ripple-white">
             <i class="mdui-list-item-icon mdui-icon material-icons">&#xe86e;</i>
-            <div class="mdui-list-item-content">分类</div>
+            <div class="mdui-list-item-content">Categories</div>
             <i class="mdui-collapse-item-arrow mdui-icon material-icons">&#xe5c5;</i>
           </div>
           <div class="mdui-collapse-item-body mdui-list">
-            
-              <a href="/blog-test-mdui/categories/tryout/" class="mdui-list-item mdui-ripple mdui-ripple-white" style="display: flex">
-                tryout
-                <div style="flex-grow: 1;"></div>
-                <span class="theme-menu-badge new mdui-color-theme-accent" data-badge-caption="">1</span>
-              </a>
             
               <a href="/blog-test-mdui/categories/recommend/" class="mdui-list-item mdui-ripple mdui-ripple-white" style="display: flex">
                 recommend
@@ -328,6 +322,12 @@
                 <span class="theme-menu-badge new mdui-color-theme-accent" data-badge-caption="">3</span>
               </a>
             
+              <a href="/blog-test-mdui/categories/tryout/" class="mdui-list-item mdui-ripple mdui-ripple-white" style="display: flex">
+                tryout
+                <div style="flex-grow: 1;"></div>
+                <span class="theme-menu-badge new mdui-color-theme-accent" data-badge-caption="">1</span>
+              </a>
+            
           </div>
         </div>
       
@@ -335,22 +335,10 @@
         <div class="mdui-collapse-item ">
           <div class="mdui-collapse-item-header mdui-list-item mdui-ripple mdui-ripple-white">
             <i class="mdui-list-item-icon mdui-icon fa fa-tags mdui-text-center"></i>
-            <div class="mdui-list-item-content">标签</div>
+            <div class="mdui-list-item-content">Tags</div>
             <i class="mdui-collapse-item-arrow mdui-icon material-icons">&#xe5c5;</i>
           </div>
           <div class="mdui-collapse-item-body mdui-list">
-            
-              <a href="/blog-test-mdui/tags/python/" class="mdui-list-item mdui-ripple mdui-ripple-white" style="display: flex">
-                python
-                <div style="flex-grow: 1;"></div>
-                <span class="theme-menu-badge new mdui-color-theme-accent" data-badge-caption="">1</span>
-              </a>
-            
-              <a href="/blog-test-mdui/tags/visualization/" class="mdui-list-item mdui-ripple mdui-ripple-white" style="display: flex">
-                visualization
-                <div style="flex-grow: 1;"></div>
-                <span class="theme-menu-badge new mdui-color-theme-accent" data-badge-caption="">1</span>
-              </a>
             
               <a href="/blog-test-mdui/tags/Arch-Linux/" class="mdui-list-item mdui-ripple mdui-ripple-white" style="display: flex">
                 Arch Linux
@@ -376,6 +364,18 @@
                 <span class="theme-menu-badge new mdui-color-theme-accent" data-badge-caption="">2</span>
               </a>
             
+              <a href="/blog-test-mdui/tags/python/" class="mdui-list-item mdui-ripple mdui-ripple-white" style="display: flex">
+                python
+                <div style="flex-grow: 1;"></div>
+                <span class="theme-menu-badge new mdui-color-theme-accent" data-badge-caption="">1</span>
+              </a>
+            
+              <a href="/blog-test-mdui/tags/visualization/" class="mdui-list-item mdui-ripple mdui-ripple-white" style="display: flex">
+                visualization
+                <div style="flex-grow: 1;"></div>
+                <span class="theme-menu-badge new mdui-color-theme-accent" data-badge-caption="">1</span>
+              </a>
+            
               <a href="/blog-test-mdui/tags/github/" class="mdui-list-item mdui-ripple mdui-ripple-white" style="display: flex">
                 github
                 <div style="flex-grow: 1;"></div>
@@ -394,7 +394,7 @@
       <div class="mdui-collapse-item ">
         <div class="mdui-collapse-item-header mdui-list-item mdui-ripple mdui-ripple-white">
           <i class="mdui-list-item-icon mdui-icon material-icons">&#xe916;</i>
-          <div class="mdui-list-item-content">年份</div>
+          <div class="mdui-list-item-content">Years</div>
           <i class="mdui-collapse-item-arrow mdui-icon material-icons">&#xe5c5;</i>
         </div>
         <div class="mdui-collapse-item-body mdui-list">
@@ -433,7 +433,7 @@
     
       <br />
       <span>
-        最后更新于: 8月 03, 2020
+        Last Updated: 8月 03, 2020
       </span>
     
     
@@ -476,17 +476,17 @@
   <div class="theme-post__background mdui-color-theme"></div>
   <div class="theme-post__header mdui-color-theme">
     <div class="theme-post__header__title mdui-text-truncate">
-      Plotly Dashを試してみた
+      技術ブログ始めました(Hexo-on-Docker編)
     </div>
     <div class="theme-spacer"></div>
     <div class="theme-post__header__actions mdui-valign">
       <div>
-        <span>编写时间：</span>
+        <span>Posted: </span>
         <span style="float: right">7月 16, 2020</span>
         
         <br>
-          <span>最后修改时间：</span>
-          <span>7月 20, 2020</span>
+          <span>Last Modified: </span>
+          <span>7月 21, 2020</span>
         
       </div>
       
@@ -501,24 +501,24 @@
 
       
         <li class="mdui-menu-item">
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://ka-takeuchi.github.io/blog-test-mdui/blog-test-mdui//blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/index.html" target="_blank" class="mdui-ripple">
-                分享到Facebook
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://ka-takeuchi.github.io/blog-test-mdui/blog-test-mdui//blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(Hexo-on-Docker%E7%B7%A8)/index.html" target="_blank" class="mdui-ripple">
+                Share to Facebook
             </a>
         </li>
       
 
       
         <li class="mdui-menu-item">
-            <a href="https://plus.google.com/share?url=https://ka-takeuchi.github.io/blog-test-mdui/blog-test-mdui//blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/index.html" target="_blank" class="mdui-ripple">
-                分享到Google+
+            <a href="https://plus.google.com/share?url=https://ka-takeuchi.github.io/blog-test-mdui/blog-test-mdui//blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(Hexo-on-Docker%E7%B7%A8)/index.html" target="_blank" class="mdui-ripple">
+                Share to Google+
             </a>
         </li>
       
 
       
         <li class="mdui-menu-item">
-            <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://ka-takeuchi.github.io/blog-test-mdui/blog-test-mdui//blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/index.html&title=Plotly Dashを試してみた" target="_blank" class="mdui-ripple">
-                分享到Linkedin
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://ka-takeuchi.github.io/blog-test-mdui/blog-test-mdui//blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(Hexo-on-Docker%E7%B7%A8)/index.html&title=技術ブログ始めました(Hexo-on-Docker編)" target="_blank" class="mdui-ripple">
+                Share to Linkedin
             </a>
         </li>
       
@@ -529,8 +529,8 @@
 
       
         <li class="mdui-menu-item">
-            <a href="https://twitter.com/intent/tweet?text=Plotly Dashを試してみた&url=https://ka-takeuchi.github.io/blog-test-mdui/blog-test-mdui//blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/index.html&via=MONET Technologies" target="_blank" class="mdui-ripple">
-                分享到Twitter
+            <a href="https://twitter.com/intent/tweet?text=技術ブログ始めました(Hexo-on-Docker編)&url=https://ka-takeuchi.github.io/blog-test-mdui/blog-test-mdui//blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(Hexo-on-Docker%E7%B7%A8)/index.html&via=MONET Technologies" target="_blank" class="mdui-ripple">
+                Share to Twitter
             </a>
         </li>
       
@@ -549,38 +549,44 @@
     <div class="theme-post__warpper__container">
       <article class="mdui-card theme-post__card mdui-hoverable">
         <section class="theme-post__card__warning">
-          这篇文章最后修改于
+          This article was last modified
           <span id="content-warning"></span>
-          天之前。
-          本页内容可能已经过时！
+          days ago.
+          The content of this post may be outdated!
         </section>
         
         
           <section class="mdui-card-media">
-            <img src="/blog-test-mdui/images/random/30.png"/>
+            <img src="/blog-test-mdui/images/random/19.png"/>
           </section>
         
         <section class="mdui-typo theme-post__card__content">
           <h1 id="はじめに"><a class="markdownIt-Anchor" href="#はじめに">#</a> はじめに</h1>
-<p>後で書きます</p>
+<p>MONET Technologies 株式会社、2020 年新卒入社の竹内です。</p>
+<p>この記事では、技術ブログ開始に当たって、静的サイトジェネレータ Hexo を導入する話です。</p>
 <a id="more"></a>
-<p>aaa</p>
+<p>前提として、今回 Hexo の環境を Docker で構築します。<br>
+Docker 環境の構築については<a href="https://awesome-linus.com/2019/08/17/mac-docker-install/" target="_blank" rel="noopener">こちら</a>を参照。<br>
+筆者は今回初めて Docker を使ってみているので、変なところがあれば指摘していただければと思います。</p>
+<h2 id="執筆用dockerイメージのビルド"><a class="markdownIt-Anchor" href="#執筆用dockerイメージのビルド">#</a> 執筆用 Docker イメージのビルド</h2>
+<p>まず、執筆用の Docker イメージをビルドするところから始まります。</p>
+<p>以下、後で執筆</p>
 
         </section>
 
         
           <section class="theme-post__card__license mdui-typo">
             <span>
-              本文许可协议：
+              Article License: 
               
                 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">CC BY-NC-SA 4.0</a>
               
             </span>
             <br />
-            <span>本文永久链接：<a href="https://ka-takeuchi.github.io/blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/">https://ka-takeuchi.github.io/blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</a></span>
+            <span>Article Permalink: <a href="https://ka-takeuchi.github.io/blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(Hexo-on-Docker%E7%B7%A8)/">https://ka-takeuchi.github.io/blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(Hexo-on-Docker%E7%B7%A8)/</a></span>
             
               <br />
-              <span>本文Markdown：<a href="https://ka-takeuchi.github.io/blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/Plotly Dashを試してみた.md">https://ka-takeuchi.github.io/blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/Plotly Dashを試してみた.md</a></span>
+              <span>Article Markdown: <a href="https://ka-takeuchi.github.io/blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(Hexo-on-Docker%E7%B7%A8)/技術ブログ始めました(Hexo-on-Docker編).md">https://ka-takeuchi.github.io/blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(Hexo-on-Docker%E7%B7%A8)/技術ブログ始めました(Hexo-on-Docker編).md</a></span>
             
           </section>
         
@@ -588,7 +594,7 @@
         
           <section class="mdui-card-actions theme-post__card__actions">
             
-              <button class="mdui-btn mdui-btn-icon mdui-btn-dense mdui-ripple  mdui-color-red" mdui-tooltip="{content: '打赏', position: 'right'}" mdui-dialog="{target: '#donateDialog'}">
+              <button class="mdui-btn mdui-btn-icon mdui-btn-dense mdui-ripple  mdui-color-red" mdui-tooltip="{content: 'Buy me a beer?', position: 'right'}" mdui-dialog="{target: '#donateDialog'}">
                 <i class="mdui-icon fa fa-beer"></i>
               </button>
             
@@ -599,8 +605,8 @@
               </div>
               <div class="mdui-typo">
                 
-                  <a href="/blog-test-mdui/categories/tryout/">
-                    <span>tryout</span>
+                  <a href="/blog-test-mdui/categories/blog/">
+                    <span>blog</span>
                   </a>
                 
               </div>
@@ -611,12 +617,8 @@
               </div>
               <div class="mdui-typo">
                 
-                  <a href="/blog-test-mdui/tags/python/">
-                    <span>python</span>
-                  </a>
-                
-                  <a href="/blog-test-mdui/tags/visualization/">
-                    <span>visualization</span>
+                  <a href="/blog-test-mdui/tags/hexo/">
+                    <span>hexo</span>
                   </a>
                 
               </div>
@@ -636,7 +638,7 @@
       </article>
       
         <div class="mdui-color-theme theme-post__toc">
-          <html><head></head><body><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link mdui-list-item mdui-ripple theme-post__toc__content__link" href="#&#x306F;&#x3058;&#x3081;&#x306B;" data-href="#&#x306F;&#x3058;&#x3081;&#x306B;"><span class="toc-number"></span> <span class="toc-text">1.  &#x306F;&#x3058;&#x3081;&#x306B;</span></a></li></ol></body></html>
+          <html><head></head><body><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link mdui-list-item mdui-ripple theme-post__toc__content__link" href="#&#x306F;&#x3058;&#x3081;&#x306B;" data-href="#&#x306F;&#x3058;&#x3081;&#x306B;"><span class="toc-number"></span> <span class="toc-text">1.  &#x306F;&#x3058;&#x3081;&#x306B;</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link mdui-list-item mdui-ripple theme-post__toc__content__link" href="#&#x57F7;&#x7B46;&#x7528;docker&#x30A4;&#x30E1;&#x30FC;&#x30B8;&#x306E;&#x30D3;&#x30EB;&#x30C9;" data-href="#&#x57F7;&#x7B46;&#x7528;docker&#x30A4;&#x30E1;&#x30FC;&#x30B8;&#x306E;&#x30D3;&#x30EB;&#x30C9;"><span class="toc-number"></span> <span class="toc-text">1.1.  &#x57F7;&#x7B46;&#x7528; Docker &#x30A4;&#x30E1;&#x30FC;&#x30B8;&#x306E;&#x30D3;&#x30EB;&#x30C9;</span></a></li></ol></li></ol></body></html>
         </div>
       
     </div>
@@ -650,7 +652,7 @@
     <i class="mdui-icon material-icons">&#xe242;</i>
   </button>
   <ul class="mdui-menu mdui-typo theme-post__toc-fab__menu" id="toc-fab-menu" style="padding: 8px;max-height: 80%">
-    <html><head></head><body><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link mdui-list-item mdui-ripple theme-post__toc__content__link" href="#&#x306F;&#x3058;&#x3081;&#x306B;" data-href="#&#x306F;&#x3058;&#x3081;&#x306B;"><span class="toc-number"></span> <span class="toc-text">1.  &#x306F;&#x3058;&#x3081;&#x306B;</span></a></li></ol></body></html>
+    <html><head></head><body><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link mdui-list-item mdui-ripple theme-post__toc__content__link" href="#&#x306F;&#x3058;&#x3081;&#x306B;" data-href="#&#x306F;&#x3058;&#x3081;&#x306B;"><span class="toc-number"></span> <span class="toc-text">1.  &#x306F;&#x3058;&#x3081;&#x306B;</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link mdui-list-item mdui-ripple theme-post__toc__content__link" href="#&#x57F7;&#x7B46;&#x7528;docker&#x30A4;&#x30E1;&#x30FC;&#x30B8;&#x306E;&#x30D3;&#x30EB;&#x30C9;" data-href="#&#x57F7;&#x7B46;&#x7528;docker&#x30A4;&#x30E1;&#x30FC;&#x30B8;&#x306E;&#x30D3;&#x30EB;&#x30C9;"><span class="toc-number"></span> <span class="toc-text">1.1.  &#x57F7;&#x7B46;&#x7528; Docker &#x30A4;&#x30E1;&#x30FC;&#x30B8;&#x306E;&#x30D3;&#x30EB;&#x30C9;</span></a></li></ol></li></ol></body></html>
   </ul>
 </div>
 
@@ -661,14 +663,14 @@
   
     <div class="theme-post__pagination__prev mdui-ripple mdui-valign">
       
-        <a href="/blog-test-mdui/2020/07/16/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(VSCode%E3%81%AE%E8%A8%AD%E5%AE%9A%E7%B7%A8)/" class="theme-post__pagination__prev__content mdui-text-left">
+        <a href="/blog-test-mdui/2020/07/15/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/" class="theme-post__pagination__prev__content mdui-text-left">
         
         <div>
           <i class="mdui-icon material-icons mdui-text-center">&#xe5cb;</i>
-          <span class="mdui-typo-body-2-opacity mdui-text-center">新的文章</span>
+          <span class="mdui-typo-body-2-opacity mdui-text-center">Newer Post</span>
         </div>
         <div class="mdui-typo-title mdui-text-truncate">
-          技術ブログ始めました(VSCodeの設定編)
+          Plotly Dashを試してみた
         </div>
       </a>
     </div>
@@ -677,14 +679,14 @@
   
     <div class="theme-post__pagination__next mdui-ripple mdui-valign">
       
-        <a href="/blog-test-mdui/2020/07/16/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(Hexo-on-Docker%E7%B7%A8)/" class="theme-post__pagination__next__content mdui-text-right">
+        <a href="/blog-test-mdui/2020/07/14/Arch%20Linux%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/" class="theme-post__pagination__next__content mdui-text-right">
         
         <div>
-          <span class="mdui-typo-body-2-opacity mdui-text-center">旧的文章</span>
+          <span class="mdui-typo-body-2-opacity mdui-text-center">Older Post</span>
           <i class="mdui-icon material-icons mdui-text-center">&#xe5cc;</i>
         </div>
         <div class="mdui-typo-title mdui-text-truncate">
-          技術ブログ始めました(Hexo-on-Docker編)
+          Arch Linuxはいいぞという話
         </div>
       </a>
     </div>
@@ -695,32 +697,14 @@
 
   
     <div class="mdui-dialog" id="donateDialog">
-      <div class="mdui-dialog-title">打赏</div>
+      <div class="mdui-dialog-title">Buy me a beer?</div>
       <div class="mdui-dialog-content">
         <div class="mdui-list">
-          
-            <a href="/blog-test-mdui/img/avatar.png" title="wechat" class="mdui-list-item mdui-ripple" target="_blank">
-              
-                <i class="mdui-list-item-icon mdui-icon fa fa-wechat mdui-text-center"></i>&emsp;
-              
-              
-              
-              wechat
-            </a>
-          
-            <a href="https://paypal.com" title="paypay" class="mdui-list-item mdui-ripple" target="_blank">
-              
-                <i class="mdui-list-item-icon mdui-icon fa fa-paypal mdui-text-center"></i>&emsp;
-              
-              
-              
-              paypay
-            </a>
           
         </div>
       </div>
       <div class="mdui-dialog-actions">
-        <button class="mdui-btn mdui-ripple mdui-ripple" mdui-dialog-close>不要</button>
+        <button class="mdui-btn mdui-ripple mdui-ripple" mdui-dialog-close>Cancel</button>
       </div>
     </div>
   
@@ -796,7 +780,7 @@
 
 <script type="text/javascript">
   (function() {
-    var postLastModifiedDate = 1595260466000
+    var postLastModifiedDate = 1595260448000
     var today = (new Date()).getTime()
     var difference = Math.floor((today - postLastModifiedDate)/(24*60*60*1000))
     if (difference >= 100) {
@@ -841,9 +825,9 @@
   </main>
 
   <div id="outdated" style="z-index: 9999;">
-    <h6>你的浏览器已经过气辣！</h6>
-    <p>赶紧升级浏览器来访问本站吧！<a id="btnUpdateBrowser" href="http://outdatedbrowser.com/" target="_blank" rel="noopener">现在就去</a></p>
-    <p class="last"><a href="#" id="btnCloseUpdateBrowser" title="关闭">&times;</a></p>
+    <h6>Your browser is out-of-date!</h6>
+    <p>Update your browser to view this website correctly. <a id="btnUpdateBrowser" href="http://outdatedbrowser.com/" target="_blank" rel="noopener">Update my browser now </a></p>
+    <p class="last"><a href="#" id="btnCloseUpdateBrowser" title="Close">&times;</a></p>
   </div>
   <!-- import js -->
 
@@ -866,6 +850,8 @@
 
 <!-- theme js -->
 <script type="text/javascript">
+  // default theme: light
+  localStorage.setItem('darkMode',false);
   (function() {
     var appbarTopFlag = false;
     var appbarEl = document.querySelector('.theme-appbar');
@@ -890,17 +876,20 @@
         document.querySelector('body').classList.add('mdui-theme-layout-dark')
         document.querySelector('meta[name="theme-color"]').setAttribute("content", "#212121")
         return true
-      } else if(!window.matchMedia) {
-          return false;
+      } /*
+      // If you want to override the user's configuration, you can do so as follows
+      else if(!window.matchMedia) {
+        return false;
       } else if(window.matchMedia("(prefers-color-scheme: dark)").matches) {
         document.querySelector('body').classList.add('mdui-theme-layout-dark')
         document.querySelector('meta[name="theme-color"]').setAttribute("content", "#212121")
-          return true;
+        return true;
       } else if(window.matchMedia("(prefers-color-scheme: light)").matches) {
         document.querySelector('body').classList.remove('mdui-theme-layout-dark')
         document.querySelector('meta[name="theme-color"]').setAttribute("content", "#fff")
-          return false;
-      } else {
+        return false;
+      } */
+      else {
         return false;
       }
     }
@@ -920,9 +909,11 @@
         localStorage.setItem('darkMode', false);
         modeFlag = false;
       }
+      console.log("local mode:"+localStorage.getItem('darkMode'));
     }
     modeEl.addEventListener('click', modeSwitch);
   })();
+
 </script>
 
 

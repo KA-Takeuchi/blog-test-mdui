@@ -5,23 +5,23 @@
         <link>https://ka-takeuchi.github.io/blog-test-mdui</link>
         <description>This is a tech-blog of MONET-Technologies</description>
         <language>ja</language>
-        <pubDate>Thu, 16 Jul 2020 04:03:27 +0000</pubDate>
-        <lastBuildDate>Thu, 16 Jul 2020 04:03:27 +0000</lastBuildDate>
-        <category>python</category>
-        <category>visualization</category>
+        <pubDate>Wed, 15 Jul 2020 19:03:27 +0000</pubDate>
+        <lastBuildDate>Wed, 15 Jul 2020 19:03:27 +0000</lastBuildDate>
         <category>Arch Linux</category>
         <category>Linux</category>
         <category>hexo</category>
         <category>vscode</category>
+        <category>python</category>
+        <category>visualization</category>
         <category>github</category>
         <category>docker</category>
         <item>
-            <guid isPermalink="true">https://ka-takeuchi.github.io/blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+            <guid isPermalink="true">https://ka-takeuchi.github.io/blog-test-mdui/2020/07/15/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
             <title>Plotly Dashを試してみた</title>
-            <link>https://ka-takeuchi.github.io/blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+            <link>https://ka-takeuchi.github.io/blog-test-mdui/2020/07/15/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</link>
             <category>python</category>
             <category>visualization</category>
-            <pubDate>Thu, 16 Jul 2020 04:03:27 +0000</pubDate>
+            <pubDate>Wed, 15 Jul 2020 19:03:27 +0000</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#はじめに&#34;&gt;#&lt;/a&gt; はじめに&lt;/h1&gt;
 &lt;p&gt;後で書きます&lt;/p&gt;
 &lt;a id=&#34;more&#34;&gt;&lt;/a&gt;

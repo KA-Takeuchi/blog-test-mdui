@@ -5,14 +5,14 @@
         <link>https://ka-takeuchi.github.io/blog-test-mdui</link>
         <description>This is a tech-blog of MONET-Technologies</description>
         <language>ja</language>
-        <pubDate>Tue, 14 Jul 2020 14:09:45 +0000</pubDate>
-        <lastBuildDate>Tue, 14 Jul 2020 14:09:45 +0000</lastBuildDate>
-        <category>python</category>
-        <category>visualization</category>
+        <pubDate>Tue, 14 Jul 2020 05:09:45 +0000</pubDate>
+        <lastBuildDate>Tue, 14 Jul 2020 05:09:45 +0000</lastBuildDate>
         <category>Arch Linux</category>
         <category>Linux</category>
         <category>hexo</category>
         <category>vscode</category>
+        <category>python</category>
+        <category>visualization</category>
         <category>github</category>
         <category>docker</category>
         <item>
@@ -23,7 +23,7 @@
             <category>vscode</category>
             <category>github</category>
             <category>docker</category>
-            <pubDate>Tue, 14 Jul 2020 14:09:45 +0000</pubDate>
+            <pubDate>Tue, 14 Jul 2020 05:09:45 +0000</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#はじめに&#34;&gt;#&lt;/a&gt; はじめに&lt;/h1&gt;
 &lt;p&gt;MONET Technologies 株式会社、2020 年新卒入社の竹内です。&lt;/p&gt;
 &lt;p&gt;この度、弊社でも社員の技術力向上 &amp;amp; アウトプットのために、技術ブログを開設する運びとなりました。&lt;/p&gt;
