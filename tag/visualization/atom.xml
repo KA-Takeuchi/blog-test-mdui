@@ -6,12 +6,12 @@
     <updated>2020-07-16T04:03:27.000Z</updated>
     <category term="python" />
     <category term="visualization" />
-    <category term="hexo" />
-    <category term="github" />
-    <category term="vscode" />
-    <category term="docker" />
     <category term="Arch Linux" />
     <category term="Linux" />
+    <category term="hexo" />
+    <category term="vscode" />
+    <category term="github" />
+    <category term="docker" />
     <entry>
         <id>https://ka-takeuchi.github.io/blog-test-mdui/2020/07/16/Plotly%20Dash%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</id>
         <title>Plotly Dashを試してみた</title>
