@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ka-takeuchi.github.io/blog-test-mdui</id>
+    <title>MONET Tech-blog • Posts by &#34;test&#34; category</title>
+    <link href="https://ka-takeuchi.github.io/blog-test-mdui" />
+    <updated>2020-07-15T23:31:46.000Z</updated>
+    <category term="python" />
+    <category term="visualization" />
+    <category term="Arch Linux" />
+    <category term="Linux" />
+    <category term="hexo" />
+    <category term="vscode" />
+    <category term="github" />
+    <category term="docker" />
+    <entry>
+        <id>https://ka-takeuchi.github.io/blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(VSCode%E3%81%AE%E8%A8%AD%E5%AE%9A%E7%B7%A8)/</id>
+        <title>技術ブログ始めました(VSCodeの設定編)</title>
+        <link rel="alternate" href="https://ka-takeuchi.github.io/blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(VSCode%E3%81%AE%E8%A8%AD%E5%AE%9A%E7%B7%A8)/"/>
+        <content type="html">&lt;p&gt;VSCodeを使うとコンテナにアクセスできてビビる。。。&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;p&gt;asdfa&lt;/p&gt;
+&lt;h2 id=&#34;画像の貼り付け&#34;&gt;&lt;a href=&#34;#画像の貼り付け&#34; class=&#34;headerlink&#34; title=&#34;画像の貼り付け&#34;&gt;&lt;/a&gt;画像の貼り付け&lt;/h2&gt;&lt;img src=&#34;/blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(VSCode%E3%81%AE%E8%A8%AD%E5%AE%9A%E7%B7%A8)/2020-07-17T100910.png&#34; class=&#34;&#34;&gt;
+
+
+&lt;p&gt;vscodeのエクステンションを使うと画像をコピペすると自動でフォルダ内に配置してくれる。&lt;/p&gt;
+&lt;p&gt;が、困ったことにリモート接続した場合、画像のクリップボードはコピーされない既知のバグ(仕様?)があるらしく、まだリモート先への画像コピペができないんですね。。。&lt;/p&gt;
+&lt;p&gt;なので、&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;リモート接続せずに執筆&lt;/li&gt;
+&lt;li&gt;書き終わったらリモート接続してgithubにプッシュ&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;みたいな悲しい事態が起こる。。。&lt;/p&gt;
+</content>
+        <category term="hexo" />
+        <category term="vscode" />
+        <updated>2020-07-15T23:31:46.000Z</updated>
+    </entry>
+</feed>

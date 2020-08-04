@@ -3,7 +3,9 @@ title: 技術ブログ始めました(VSCodeの設定編)
 date: 2020-07-16T17:31:46+09:00
 thumbnail: /blog-test-mdui/covers/vscode_logo.jpeg
 cover_detail: /tech-blog/covers/vscode_logo.jpeg
-categories: ["blog"]
+categories:
+  - "blog"
+  - "test"
 tags: 
   - "hexo"
   - "vscode"
