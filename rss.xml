@@ -7,11 +7,11 @@
         <language>ja</language>
         <pubDate>Wed, 15 Jul 2020 23:31:46 +0000</pubDate>
         <lastBuildDate>Wed, 15 Jul 2020 23:31:46 +0000</lastBuildDate>
-        <category>python</category>
-        <category>visualization</category>
+        <category>hexo</category>
         <category>Arch Linux</category>
         <category>Linux</category>
-        <category>hexo</category>
+        <category>python</category>
+        <category>visualization</category>
         <category>vscode</category>
         <category>github</category>
         <category>docker</category>
@@ -22,19 +22,17 @@
             <category>hexo</category>
             <category>vscode</category>
             <pubDate>Wed, 15 Jul 2020 23:31:46 +0000</pubDate>
-            <description><![CDATA[ &lt;p&gt;VSCodeを使うとコンテナにアクセスできてビビる。。。&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;VSCode を使うとコンテナにアクセスできてビビる。。。&lt;/p&gt;
 &lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
-
 &lt;p&gt;asdfa&lt;/p&gt;
-&lt;h2 id=&#34;画像の貼り付け&#34;&gt;&lt;a href=&#34;#画像の貼り付け&#34; class=&#34;headerlink&#34; title=&#34;画像の貼り付け&#34;&gt;&lt;/a&gt;画像の貼り付け&lt;/h2&gt;&lt;img src=&#34;/blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(VSCode%E3%81%AE%E8%A8%AD%E5%AE%9A%E7%B7%A8)/2020-07-17T100910.png&#34; class=&#34;&#34;&gt;
-
-
-&lt;p&gt;vscodeのエクステンションを使うと画像をコピペすると自動でフォルダ内に配置してくれる。&lt;/p&gt;
-&lt;p&gt;が、困ったことにリモート接続した場合、画像のクリップボードはコピーされない既知のバグ(仕様?)があるらしく、まだリモート先への画像コピペができないんですね。。。&lt;/p&gt;
+&lt;h2 id=&#34;画像の貼り付け&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#画像の貼り付け&#34;&gt;#&lt;/a&gt; 画像の貼り付け&lt;/h2&gt;
+&lt;img src=&#34;/blog-test-mdui/2020/07/15/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F(VSCode%E3%81%AE%E8%A8%AD%E5%AE%9A%E7%B7%A8)/2020-07-17T100910.png&#34; class=&#34;&#34;&gt;
+&lt;p&gt;vscode のエクステンションを使うと画像をコピペすると自動でフォルダ内に配置してくれる。&lt;/p&gt;
+&lt;p&gt;が、困ったことにリモート接続した場合、画像のクリップボードはコピーされない既知のバグ (仕様？) があるらしく、まだリモート先への画像コピペができないんですね。。。&lt;/p&gt;
 &lt;p&gt;なので、&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;リモート接続せずに執筆&lt;/li&gt;
-&lt;li&gt;書き終わったらリモート接続してgithubにプッシュ&lt;/li&gt;
+&lt;li&gt;書き終わったらリモート接続して github にプッシュ&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;みたいな悲しい事態が起こる。。。&lt;/p&gt;
  ]]></description>
